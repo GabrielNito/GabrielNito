@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="32px">, I'm Gabriel Nito</h1>
 
 - 🖥️ Front-end Developer<br />
-- 📚 Studying Computer Networks (3rd Semester)<br />
+- 📚 Studying Cross-Platform Software Development (1st Semester)<br />
 - 🔎 Currently learning React<br />
 - 📫 Discord: <a href="https://discord.com/users/1188644145309438012">@gabrielnito</a><br />
 <h1></h1>
